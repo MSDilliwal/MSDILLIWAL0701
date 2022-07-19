@@ -24,6 +24,8 @@ public class Example1_Test {
 		String browser =System.getProperty("browser");
 		System.out.println("url ="+ url);
 		System.out.println("browser ="+browser);
+		System.out.println("Hi everyone ");
+			
 	}
 	
 }
