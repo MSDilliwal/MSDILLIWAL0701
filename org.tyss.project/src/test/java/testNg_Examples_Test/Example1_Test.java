@@ -25,8 +25,9 @@ public class Example1_Test {
 		System.out.println("url ="+ url);
 		System.out.println("browser ="+browser);
 		System.out.println("Hi everyone ");
-		System.out.println("Hi everyone, How are you ");
+		
 		System.out.println("NOT WORKING ");
+		System.out.println("Hi everyone, How are you ");
 			
 	}
 	
