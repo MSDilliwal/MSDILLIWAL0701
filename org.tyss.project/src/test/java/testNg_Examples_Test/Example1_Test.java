@@ -14,6 +14,7 @@ public class Example1_Test {
 	public void run()
 	{
 		System.out.println("Hii");
+		System.out.println("Good morning");
 	}
 	
 	@Test	public void display()
