@@ -27,7 +27,7 @@ public class Example1_Test {
 		System.out.println("Hi everyone ");
 		
 		System.out.println("poll scm");
-		System.out.println("commit aagoo");
+		System.out.println("commit aago");
 				
 	}
 	
